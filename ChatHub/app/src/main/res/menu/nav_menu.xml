@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+
+    <item
+    android:id="@+id/home"
+    android:icon="@drawable/_home"
+    android:title="Home"/>
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/name1"
+        android:title="User Profile"/>
+    <item
+        android:id="@+id/rate"
+        android:icon="@drawable/_rate"
+        android:title="Rate Us"/>
+    <item
+        android:id="@+id/git"
+        android:icon="@drawable/code"
+        android:title="GitHub"/>
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/_share"
+        android:title="Share"/>
+
+    <item
+        android:title="Session">
+        <menu>
+            <item
+                android:id="@+id/newuser"
+                android:icon="@drawable/baseline_login_24"
+                android:title="SignIn with New User"/>
+            <item
+                android:id="@+id/signout"
+                android:icon="@drawable/baseline_logout_24"
+                android:title="Sign Out"/>
+            <item
+                android:id="@+id/exit"
+                android:icon="@drawable/_exit"
+                android:title="Exit"/>
+        </menu>
+    </item>
+
+
+
+</menu>

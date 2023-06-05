@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <!-- action button for refresh -->
+<!--    <item android:title="refresh"-->
+<!--        android:id="@+id/refresh"-->
+<!--        android:orderInCategory="100"-->
+<!--        app:showAsAction="always"-->
+<!--        android:icon="@drawable/_refresh_white"/>-->
+
+    <!-- action button for copy -->
+    <item android:title="share"
+        android:id="@+id/share"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/_share_white"/>
+
+    <item
+        android:id="@+id/logout"
+        android:title="Log out"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/_logout_white"/>
+
+
+</menu>

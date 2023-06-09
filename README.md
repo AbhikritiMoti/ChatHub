@@ -9,7 +9,8 @@ This project is focused on building an Android chat application with Android Stu
 
 ![studio64_bHAxOUIX9L](https://github.com/AbhikritiMoti/ChatHub/assets/73769937/ae7d934c-fc44-4632-85b6-d97838dba299) ![studio64_3lwVQMFAz7](https://github.com/AbhikritiMoti/ChatHub/assets/73769937/84d4cc02-7e30-4e15-ba4d-cca92fa57c88)![studio64_rvdGomTlVC](https://github.com/AbhikritiMoti/ChatHub/assets/73769937/155e6741-22f3-44d7-8d67-388e5959b40a)![studio64_iWdSGNMIk5](https://github.com/AbhikritiMoti/ChatHub/assets/73769937/a8a8085b-4542-43d1-8893-5ecdac5a18cf) ![Screenshot_2023-06-09-22-16-10-066_com example chathub](https://github.com/AbhikritiMoti/ChatHub/assets/73769937/5167ee40-4ffb-49af-8506-3e8740f562b6)![Screenshot_2023-06-09-22-16-10-066_com example chathub](https://github.com/AbhikritiMoti/ChatHub/assets/73769937/7b4ef1ca-65d2-45b3-bc37-7c9620bc27c5)
 
-<img src="![Screenshot_2023-06-09-22-16-18-458_com example chathub](https://github.com/AbhikritiMoti/ChatHub/assets/73769937/cc2408be-9454-4082-9de1-9e00c59e8fc9)" alt="Image" width="300" height="200">
+<img src="https://github.com/AbhikritiMoti/ChatHub/assets/73769937/5167ee40-4ffb-49af-8506-3e8740f562b6" alt="Screenshot" width="400" height="auto">
+
 
 
 

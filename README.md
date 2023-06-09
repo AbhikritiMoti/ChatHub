@@ -5,8 +5,8 @@ This project is focused on building an Android chat application with Android Stu
 
 
 
-## Interactive Dashboard in Tableau
+## App UI Design
 
-![dashboard](https://github.com/AbhikritiMoti/Earthqakes_1900-2013_Analysis/assets/73769937/3afda42d-eccb-4959-871b-bb5168c711b0)
-*See on Tableau Public:* **[Dashboard](https://public.tableau.com/app/profile/abhikriti.moti3739/viz/Earthqakes_1900-2013_Analysis/Dashboard?publish=yes)**<br />
+![studio64_bHAxOUIX9L](https://github.com/AbhikritiMoti/ChatHub/assets/73769937/ae7d934c-fc44-4632-85b6-d97838dba299) ![studio64_3lwVQMFAz7](https://github.com/AbhikritiMoti/ChatHub/assets/73769937/84d4cc02-7e30-4e15-ba4d-cca92fa57c88)![studio64_rvdGomTlVC](https://github.com/AbhikritiMoti/ChatHub/assets/73769937/155e6741-22f3-44d7-8d67-388e5959b40a)
+
 

@@ -7,6 +7,6 @@ This project is focused on building an Android chat application with Android Stu
 
 ## App UI Design
 
-![studio64_bHAxOUIX9L](https://github.com/AbhikritiMoti/ChatHub/assets/73769937/ae7d934c-fc44-4632-85b6-d97838dba299) ![studio64_3lwVQMFAz7](https://github.com/AbhikritiMoti/ChatHub/assets/73769937/84d4cc02-7e30-4e15-ba4d-cca92fa57c88)![studio64_rvdGomTlVC](https://github.com/AbhikritiMoti/ChatHub/assets/73769937/155e6741-22f3-44d7-8d67-388e5959b40a)
+![studio64_bHAxOUIX9L](https://github.com/AbhikritiMoti/ChatHub/assets/73769937/ae7d934c-fc44-4632-85b6-d97838dba299) ![studio64_3lwVQMFAz7](https://github.com/AbhikritiMoti/ChatHub/assets/73769937/84d4cc02-7e30-4e15-ba4d-cca92fa57c88)![studio64_rvdGomTlVC](https://github.com/AbhikritiMoti/ChatHub/assets/73769937/155e6741-22f3-44d7-8d67-388e5959b40a)![studio64_iWdSGNMIk5](https://github.com/AbhikritiMoti/ChatHub/assets/73769937/a8a8085b-4542-43d1-8893-5ecdac5a18cf) 
 
 
